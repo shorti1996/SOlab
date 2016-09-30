@@ -1,0 +1,11 @@
+c:\users\shorti1996\documents\visual studio 2015\Projects\SO01\SO01\bin\Debug\SO01.exe.config
+c:\users\shorti1996\documents\visual studio 2015\Projects\SO01\SO01\bin\Debug\SO01.exe
+c:\users\shorti1996\documents\visual studio 2015\Projects\SO01\SO01\bin\Debug\SO01.pdb
+c:\users\shorti1996\documents\visual studio 2015\Projects\SO01\SO01\obj\Debug\SO01.csprojResolveAssemblyReference.cache
+c:\users\shorti1996\documents\visual studio 2015\Projects\SO01\SO01\obj\Debug\SO01.Process.resources
+c:\users\shorti1996\documents\visual studio 2015\Projects\SO01\SO01\obj\Debug\SO01.Properties.Resources.resources
+c:\users\shorti1996\documents\visual studio 2015\Projects\SO01\SO01\obj\Debug\SO01.csproj.GenerateResource.Cache
+c:\users\shorti1996\documents\visual studio 2015\Projects\SO01\SO01\obj\Debug\SO01.exe
+c:\users\shorti1996\documents\visual studio 2015\Projects\SO01\SO01\obj\Debug\SO01.pdb
+c:\users\shorti1996\documents\visual studio 2015\Projects\SO01\SO01\obj\Debug\SO01.FormMain.resources
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO01\SO01\obj\Debug\SO01.FormAddCustom.resources

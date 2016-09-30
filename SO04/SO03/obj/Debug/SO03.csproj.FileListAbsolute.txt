@@ -1,0 +1,25 @@
+c:\users\shorti1996\documents\visual studio 2015\Projects\SO03\SO03\bin\Debug\SO03.exe.config
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO03\SO03\bin\Debug\SO03.exe
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO03\SO03\bin\Debug\SO03.pdb
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO03\SO03\obj\Debug\SO03.csprojResolveAssemblyReference.cache
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO03\SO03\obj\Debug\SO03.FormMain.resources
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO03\SO03\obj\Debug\SO03.FormRAM.resources
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO03\SO03\obj\Debug\SO03.Properties.Resources.resources
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO03\SO03\obj\Debug\SO03.csproj.GenerateResource.Cache
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO03\SO03\obj\Debug\SO03.exe
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO03\SO03\obj\Debug\SO03.pdb
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO03\SO03\obj\Debug\SO03.FormFinished.resources
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO03 — kopia\SO03\bin\Debug\SO03.exe.config
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO03 — kopia\SO03\obj\Debug\SO03.exe
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO03 — kopia\SO03\obj\Debug\SO03.pdb
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO03 — kopia\SO03\bin\Debug\SO03.exe
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO03 — kopia\SO03\bin\Debug\SO03.pdb
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO03 — kopia\SO03\obj\Debug\SO03.csprojResolveAssemblyReference.cache
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO03 — kopia\SO03\obj\Debug\SO03.FormFinished.resources
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO03 — kopia\SO03\obj\Debug\SO03.FormMain.resources
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO03 — kopia\SO03\obj\Debug\SO03.FormRAM.resources
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO03 — kopia\SO03\obj\Debug\SO03.Properties.Resources.resources
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO03 — kopia\SO03\obj\Debug\SO03.csproj.GenerateResource.Cache
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO04\SO03\bin\Debug\SO03.exe.config
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO04\SO03\obj\Debug\SO03.exe
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO04\SO03\obj\Debug\SO03.pdb

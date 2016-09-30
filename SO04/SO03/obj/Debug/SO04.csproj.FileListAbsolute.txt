@@ -1,0 +1,15 @@
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO04\SO03\bin\Debug\SO04.exe.config
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO04\SO03\bin\Debug\SO04.exe
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO04\SO03\bin\Debug\SO04.pdb
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO04\SO03\obj\Debug\SO04.csprojResolveAssemblyReference.cache
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO04\SO03\obj\Debug\SO04.FormFinished.resources
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO04\SO03\obj\Debug\SO04.FormMain.resources
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO04\SO03\obj\Debug\SO04.FormRAM.resources
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO04\SO03\obj\Debug\SO04.Properties.Resources.resources
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO04\SO03\obj\Debug\SO04.csproj.GenerateResource.Cache
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO04\SO03\obj\Debug\SO04.exe
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO04\SO03\obj\Debug\SO04.pdb
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO04\SO03\bin\Debug\SO04.exe.manifest
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO04\SO03\bin\Debug\SO04.application
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO04\SO03\obj\Debug\SO04.exe.manifest
+C:\Users\shorti1996\Documents\Visual Studio 2015\Projects\SO04\SO03\obj\Debug\SO04.application
